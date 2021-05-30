@@ -43,6 +43,7 @@ body{
 
 main{
 display: flex;
+flex-wrap: wrap;
 align-items: center;
 justify-content: center;
 flex-basis: 1440px;
@@ -72,8 +73,8 @@ background-color: var(--clr-primary--900);
 @media screen and (min-width: 1110px){
   
   .panel--text{
-    padding-left: 70px;
-    padding-right: 120px;  
+    padding-left: 70px !important;
+    padding-right: 120px !important;  
   }
 }
 
@@ -190,3 +191,9 @@ background-color: var(--clr-primary--900);
 }
 
 /*mobile view VÉGE */
+
+.attribution{
+  margin-top: 30px;
+  color: #fff;
+  flex-basis: 100%;
+}
