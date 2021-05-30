@@ -33,7 +33,7 @@ Users should be able to:
 - Flexbox
 
 ### Links
-- Solution URL: [Add solution URL here](https://petroczibalazs.github.io/stats-card)
+- Solution URL: [https://petroczibalazs.github.io/stats-card](https://petroczibalazs.github.io/stats-card)
 
 
 ## Continued development
